@@ -2,7 +2,7 @@ click==7.1.2
 gunicorn==20.0.4
 itsdangerous==2.1.2
 Jinja2==2.11.3
-MarkupSafe==1.1.1
+MarkupSafe==2.1.1
 Werkzeug==3.0.1
 debugpy==1.6.6
 Flask==3.0.0
